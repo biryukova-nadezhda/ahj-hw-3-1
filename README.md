@@ -1,5 +1,5 @@
 ## Events
-Git-pages:
+Git-pages: https://biryukova-nadezhda.github.io/ahj-hw-3-1/
 
 [![Build status](https://ci.appveyor.com/api/projects/status/rrb7vt4fciyrv25o?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-3-1)
 
