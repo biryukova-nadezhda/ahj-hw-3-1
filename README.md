@@ -1,7 +1,7 @@
 ## Events
 Git-pages:
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2c1qhm8xkv2hhsid?svg=true)](https://ci.appveyor.com/project/[![Build status](https://ci.appveyor.com/api/projects/status/rrb7vt4fciyrv25o?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-3-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/rrb7vt4fciyrv25o?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-3-1)
 
 ---
 ### Игра с гоблинами
