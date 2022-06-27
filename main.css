@@ -1,0 +1,1 @@
+body,html{height:100%;width:100%}*{box-sizing:border-box;margin:0;padding:0}.header{text-align:center}.game_field{margin:auto}.field_container{flex-wrap:wrap;margin:auto;width:700px}.cell,.field_container{display:flex;justify-content:center}.cell{align-items:center;background-color:#9b9ca5;height:150px;margin:10px;width:150px}
